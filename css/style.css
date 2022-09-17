@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Beginner&family=Raleway&display=swap');
+
+body {
+    background-color: rgb(219, 193, 157);
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color: darkcyan;
+    font-family: 'Raleway', sans-serif;
+    font-size: 3rem;
+}
+
+.main {
+    border: 3px solid grey;
+    width: 55%;
+    margin: 1rem auto;
+}
+
+.main div {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 2rem auto;
+    
+}
+
+#red {
+    border-color: red;
+}
+
+#green {
+    border-color: green;
+}
+
+#blue {
+    border-color: blue;
+}
+
+.footer {
+    color: blue;
+    text-align: center;
+    font-family: 'Edu QLD Beginner', cursive;
+    font-size: 2rem;
+}
